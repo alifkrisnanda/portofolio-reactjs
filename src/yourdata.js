@@ -26,14 +26,14 @@ export default
             //Project Image - Add Your Project Image Here
              imageSrc: "https://images.unsplash.com/photo-1582521063878-7748f3570d90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80",
              //Project URL - Add Your Project Url Here
-             url:'http://chetanverma.com/'
+             url:'https://github.com/alifkrisnanda'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'Internship at Nusantech',
                 service: 'Website Development (1 year)',
                 imageSrc:"https://images.unsplash.com/photo-1582520924933-fbf78913ae3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80",
-                url: 'http://chetanverma.com/'
+                url: 'https://github.com/alifkrisnanda'
             },
         //     { 
         //         id: 3,//DO NOT CHANGE THIS (Please)😅
