@@ -13,7 +13,7 @@ export default
         //Contact Email
         contactEmail:'alifkrisnanda023@gmail.com',
         // Add Your About Text Here
-        abouttext: "Im student at SMK N 1 Banjarnegara, who ❤ </> and 🍔.",
+        abouttext: "I'm student at The State of Vocational High School 1 Bawang, who ❤ </> and 🍔.",
         aboutImage:'https://images.unsplash.com/photo-1582517189042-fed4e613df2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1938&q=80',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
