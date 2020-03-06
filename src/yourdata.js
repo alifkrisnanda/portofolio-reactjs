@@ -32,7 +32,7 @@ export default
                 id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'Internship at Nusantech',
                 service: 'Website Development (1 year)',
-                imageSrc:"https://images.unsplash.com/photo-1582520924933-fbf78913ae3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80",
+                imageSrc:"https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
                 url: 'https://github.com/alifkrisnanda'
             },
         //     { 
